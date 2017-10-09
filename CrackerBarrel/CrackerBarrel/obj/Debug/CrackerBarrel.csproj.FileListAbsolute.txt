@@ -1,0 +1,6 @@
+C:\Users\Brandon\Desktop\Programs\Portfolio\src\ProblemSolving\Cracker Barrel\CrackerBarrel\CrackerBarrel\bin\Debug\CrackerBarrel.exe.config
+C:\Users\Brandon\Desktop\Programs\Portfolio\src\ProblemSolving\Cracker Barrel\CrackerBarrel\CrackerBarrel\obj\Debug\CrackerBarrel.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Desktop\Programs\Portfolio\src\ProblemSolving\Cracker Barrel\CrackerBarrel\CrackerBarrel\bin\Debug\CrackerBarrel.exe
+C:\Users\Brandon\Desktop\Programs\Portfolio\src\ProblemSolving\Cracker Barrel\CrackerBarrel\CrackerBarrel\bin\Debug\CrackerBarrel.pdb
+C:\Users\Brandon\Desktop\Programs\Portfolio\src\ProblemSolving\Cracker Barrel\CrackerBarrel\CrackerBarrel\obj\Debug\CrackerBarrel.exe
+C:\Users\Brandon\Desktop\Programs\Portfolio\src\ProblemSolving\Cracker Barrel\CrackerBarrel\CrackerBarrel\obj\Debug\CrackerBarrel.pdb
